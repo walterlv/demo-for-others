@@ -1,2 +1,6 @@
-# demo-for-others
-This is a UI demo for hanbindsg.
+用 WPF 框架做得简单 UI
+===================
+
+专门为 @hanbindsg 定制。
+
+![UI 效果图](2017-10-02-17-01-43.png)
